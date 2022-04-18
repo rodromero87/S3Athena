@@ -1,0 +1,5 @@
+/home/rodrigoromero/dev/git/S3Athena/src/main/java/com/romero/poc/S3AthenaApplication.java
+/home/rodrigoromero/dev/git/S3Athena/src/main/java/com/romero/poc/controller/CarroController.java
+/home/rodrigoromero/dev/git/S3Athena/src/main/java/com/romero/poc/config/S3Config.java
+/home/rodrigoromero/dev/git/S3Athena/src/main/java/com/romero/poc/controller/request/CarroRequest.java
+/home/rodrigoromero/dev/git/S3Athena/src/main/java/com/romero/poc/service/CarroService.java

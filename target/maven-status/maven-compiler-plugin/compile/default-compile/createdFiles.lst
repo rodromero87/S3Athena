@@ -1,0 +1,5 @@
+com/romero/poc/service/CarroService.class
+com/romero/poc/config/S3Config.class
+com/romero/poc/controller/request/CarroRequest.class
+com/romero/poc/S3AthenaApplication.class
+com/romero/poc/controller/CarroController.class
